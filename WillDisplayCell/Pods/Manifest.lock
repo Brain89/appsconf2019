@@ -1,0 +1,16 @@
+PODS:
+  - RRFPSBar (0.0.1)
+
+DEPENDENCIES:
+  - RRFPSBar (~> 0.0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RRFPSBar
+
+SPEC CHECKSUMS:
+  RRFPSBar: 32fd2b11fb3d6ea90dc9a1424f964ea3851cd091
+
+PODFILE CHECKSUM: 4dbe89503eecab92f19e82895511e5bb2fa2077d
+
+COCOAPODS: 1.7.0.beta.3
